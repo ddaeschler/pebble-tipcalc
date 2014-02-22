@@ -1,4 +1,5 @@
 *.psd
 inhand_48px.png
 inhand_144px.png
-
+build/*
+.lock-waf_darwin_build
