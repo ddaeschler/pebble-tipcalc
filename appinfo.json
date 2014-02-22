@@ -1,0 +1,17 @@
+{
+  "uuid": "590c114d-a24d-49fe-9163-8ebad67eca2e",
+  "shortName": "Tip Calculator",
+  "longName": "Tip Calculator",
+  "companyName": "David C. Daeschler",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
